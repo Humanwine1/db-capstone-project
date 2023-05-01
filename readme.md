@@ -1,1 +1,0 @@
-this is my capstone project for Database engineering. it'll be an app that lets you create reservations for a restaurant, and update the database accordingly. 
