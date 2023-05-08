@@ -1,2 +1,3 @@
 # db-capstone-project
-little lemon restaurant booking system
+built from scratch database
+and restuarant booking system
